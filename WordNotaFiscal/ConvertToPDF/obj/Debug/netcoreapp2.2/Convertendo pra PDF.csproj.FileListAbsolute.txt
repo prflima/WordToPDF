@@ -1,0 +1,22 @@
+C:\Users\fic\Desktop\ExportWordWithSpire\WordNotaFiscal\Convertendo pra PDF\obj\Debug\netcoreapp2.2\Convertendo pra PDF.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\ExportWordWithSpire\WordNotaFiscal\Convertendo pra PDF\obj\Debug\netcoreapp2.2\Convertendo pra PDF.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\ExportWordWithSpire\WordNotaFiscal\Convertendo pra PDF\obj\Debug\netcoreapp2.2\Convertendo pra PDF.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\ExportWordWithSpire\WordNotaFiscal\Convertendo pra PDF\obj\Debug\netcoreapp2.2\Convertendo pra PDF.AssemblyInfo.cs
+C:\Users\fic\Desktop\ExportWordWithSpire\WordNotaFiscal\Convertendo pra PDF\bin\Debug\netcoreapp2.2\Convertendo pra PDF.deps.json
+C:\Users\fic\Desktop\ExportWordWithSpire\WordNotaFiscal\Convertendo pra PDF\bin\Debug\netcoreapp2.2\Convertendo pra PDF.runtimeconfig.json
+C:\Users\fic\Desktop\ExportWordWithSpire\WordNotaFiscal\Convertendo pra PDF\bin\Debug\netcoreapp2.2\Convertendo pra PDF.runtimeconfig.dev.json
+C:\Users\fic\Desktop\ExportWordWithSpire\WordNotaFiscal\Convertendo pra PDF\bin\Debug\netcoreapp2.2\Convertendo pra PDF.dll
+C:\Users\fic\Desktop\ExportWordWithSpire\WordNotaFiscal\Convertendo pra PDF\bin\Debug\netcoreapp2.2\Convertendo pra PDF.pdb
+C:\Users\fic\Desktop\ExportWordWithSpire\WordNotaFiscal\Convertendo pra PDF\obj\Debug\netcoreapp2.2\Convertendo pra PDF.dll
+C:\Users\fic\Desktop\ExportWordWithSpire\WordNotaFiscal\Convertendo pra PDF\obj\Debug\netcoreapp2.2\Convertendo pra PDF.pdb
+C:\Users\fic\Desktop\ExportWordWithSpire\WordNotaFiscal\ConvertToPDF\bin\Debug\netcoreapp2.2\Convertendo pra PDF.deps.json
+C:\Users\fic\Desktop\ExportWordWithSpire\WordNotaFiscal\ConvertToPDF\bin\Debug\netcoreapp2.2\Convertendo pra PDF.runtimeconfig.json
+C:\Users\fic\Desktop\ExportWordWithSpire\WordNotaFiscal\ConvertToPDF\bin\Debug\netcoreapp2.2\Convertendo pra PDF.runtimeconfig.dev.json
+C:\Users\fic\Desktop\ExportWordWithSpire\WordNotaFiscal\ConvertToPDF\bin\Debug\netcoreapp2.2\Convertendo pra PDF.dll
+C:\Users\fic\Desktop\ExportWordWithSpire\WordNotaFiscal\ConvertToPDF\bin\Debug\netcoreapp2.2\Convertendo pra PDF.pdb
+C:\Users\fic\Desktop\ExportWordWithSpire\WordNotaFiscal\ConvertToPDF\obj\Debug\netcoreapp2.2\Convertendo pra PDF.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\ExportWordWithSpire\WordNotaFiscal\ConvertToPDF\obj\Debug\netcoreapp2.2\Convertendo pra PDF.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\ExportWordWithSpire\WordNotaFiscal\ConvertToPDF\obj\Debug\netcoreapp2.2\Convertendo pra PDF.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\ExportWordWithSpire\WordNotaFiscal\ConvertToPDF\obj\Debug\netcoreapp2.2\Convertendo pra PDF.AssemblyInfo.cs
+C:\Users\fic\Desktop\ExportWordWithSpire\WordNotaFiscal\ConvertToPDF\obj\Debug\netcoreapp2.2\Convertendo pra PDF.dll
+C:\Users\fic\Desktop\ExportWordWithSpire\WordNotaFiscal\ConvertToPDF\obj\Debug\netcoreapp2.2\Convertendo pra PDF.pdb

@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\ExportWordWithSpire\WordNotaFiscal\Criando o arquivo word\bin\Debug\netcoreapp2.2\Criando o arquivo word.deps.json
+C:\Users\fic\Desktop\ExportWordWithSpire\WordNotaFiscal\Criando o arquivo word\bin\Debug\netcoreapp2.2\Criando o arquivo word.runtimeconfig.json
+C:\Users\fic\Desktop\ExportWordWithSpire\WordNotaFiscal\Criando o arquivo word\bin\Debug\netcoreapp2.2\Criando o arquivo word.runtimeconfig.dev.json
+C:\Users\fic\Desktop\ExportWordWithSpire\WordNotaFiscal\Criando o arquivo word\bin\Debug\netcoreapp2.2\Criando o arquivo word.dll
+C:\Users\fic\Desktop\ExportWordWithSpire\WordNotaFiscal\Criando o arquivo word\bin\Debug\netcoreapp2.2\Criando o arquivo word.pdb
+C:\Users\fic\Desktop\ExportWordWithSpire\WordNotaFiscal\Criando o arquivo word\obj\Debug\netcoreapp2.2\Criando o arquivo word.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\ExportWordWithSpire\WordNotaFiscal\Criando o arquivo word\obj\Debug\netcoreapp2.2\Criando o arquivo word.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\ExportWordWithSpire\WordNotaFiscal\Criando o arquivo word\obj\Debug\netcoreapp2.2\Criando o arquivo word.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\ExportWordWithSpire\WordNotaFiscal\Criando o arquivo word\obj\Debug\netcoreapp2.2\Criando o arquivo word.AssemblyInfo.cs
+C:\Users\fic\Desktop\ExportWordWithSpire\WordNotaFiscal\Criando o arquivo word\obj\Debug\netcoreapp2.2\Criando o arquivo word.dll
+C:\Users\fic\Desktop\ExportWordWithSpire\WordNotaFiscal\Criando o arquivo word\obj\Debug\netcoreapp2.2\Criando o arquivo word.pdb
